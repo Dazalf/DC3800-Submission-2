@@ -1,2 +1,3 @@
-# DC3800-2.1a---Python-Scripts
-Python scripts to cleanse the dataset.
+# DC3800-Submission-2
+
+These are files used during my Submission 2 coursework completion, primarily sanitization scripts and the datasets I've used. 
